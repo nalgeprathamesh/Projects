@@ -10,7 +10,7 @@ This is the transparency log for the **Rock, Paper, Scissors** Python game.
 
 - ✅ **Fully written by me**  
   - Entire game logic, input handling, and result evaluation.  
-  - Inspired by the *Snake, Water, Gun* game from CodeWithHarry’s Python course — but I rewrote the whole game from scratch.  
+  - Inspired by the *Snake, Water, Gun* game from CodeWithHarry’s Python course — but I wrote the whole game from scratch.  
   - I improved the structure and efficiency compared to the tutor's version, especially how random choices and game loops are handled.
 
 - ⚙️ **AI-assisted**  
